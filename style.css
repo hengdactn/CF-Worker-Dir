@@ -43,7 +43,7 @@ main {
 }
 
 main .container{
-  height: 70%;
+  height: 100%;
   display: flex !important;
   flex-direction: column;
   -webkit-flex-direction: column;
